@@ -1,2 +1,16 @@
+.carousel {
+  background-color: #f9f9f9;
+}
 
-/* Your CSS Code here. */
+.carousel-control {
+  font-size: 30px;
+  color: #555;
+}
+
+.carousel-indicators li {
+  background-color: #ccc;
+}
+
+.carousel-indicators .active {
+  background-color: #555;
+}
